@@ -100,7 +100,7 @@ export default {
           200: '#e5464b'
         },
         success: '#6a0'
-      }
+      },
     }
   },
   plugins: []
